@@ -1,0 +1,27 @@
+div{
+  background-color: #ddd;
+}
+#container{
+  display: inline-block;
+  box-shadow: 3px 3px 12px 2px gray;
+}
+.box{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  height: 50px; 
+  width: 50px;
+  display: inline-block;
+}
+#first{
+  background-color: Turquoise;
+}
+#second{
+  background-color: orange;
+}
+button{
+  background: SpringGreen;
+  border-color: SeaGreen;
+  border-style: solid;
+  border-width: 2px;
+}
